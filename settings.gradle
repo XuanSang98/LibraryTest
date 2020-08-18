@@ -1,0 +1,3 @@
+include ':Sang'
+include ':app'
+rootProject.name = "Library"
